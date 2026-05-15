@@ -150,7 +150,7 @@ http://localhost:5000
 ### Response
 
 ```json
-"Hello from server 🚀"
+"Hello from server 🚀start"
 ```
 
 The root route is defined in the Express application.
@@ -247,7 +247,7 @@ You can test APIs using:
 
 # 👨‍💻 Author
 
-Developed by Amit Dabhi
+Developed by jay parmar
 
 ---
 
